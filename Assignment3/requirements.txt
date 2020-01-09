@@ -1,0 +1,6 @@
+adjustText
+matplotlib
+numpy
+pandas
+scikit-learn
+keras
